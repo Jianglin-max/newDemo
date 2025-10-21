@@ -1,0 +1,2 @@
+dataset,exp_type,train_acc,test_acc,std,duration,seed,batch_size,lr,epochs,hidden,n_conv_layers
+MUTAG,benchmark,0.9888889193534851,0.9100996255874634,0.05447493866086006,15.9952392578125,0,32,0.001,200,128,3

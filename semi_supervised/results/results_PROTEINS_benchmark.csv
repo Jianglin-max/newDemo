@@ -1,0 +1,2 @@
+dataset,exp_type,train_acc,test_acc,std,duration,seed,batch_size,lr,epochs,hidden,n_conv_layers
+PROTEINS,benchmark,0.9855855703353882,0.7278188467025757,0.03111170046031475,60.72255325317383,0,32,0.001,200,128,3
